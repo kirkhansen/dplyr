@@ -1,0 +1,63 @@
+{
+    "tidyverse": [
+        {
+            "name": "star-wars",
+            "columns": [
+                {
+                    "name": "name",
+                    "type": "STRING"
+                },
+                {
+                    "name": "height",
+                    "type": "INTEGER"
+                },
+                {
+                    "name": "mass",
+                    "type": "INTEGER"
+                },
+                {
+                    "name": "hair_color",
+                    "type": "STRING"
+                },
+                {
+                    "name": "eye_color",
+                    "type": "STRING"
+                },
+                {
+                    "name": "birth_year",
+                    "type": "DOUBLE"
+                },
+                {
+                    "name": "sex",
+                    "type": "STRING"
+                },
+                {
+                    "name": "gender",
+                    "type": "STRING"
+                },
+                {
+                    "name": "homeworld",
+                    "type": "STRING"
+                },
+                {
+                    "name": "species",
+                    "type": "STRING"
+                },
+                {
+                    "name": "FILMS",
+                    "type": "ARRAY"
+                },
+                {
+                    "name": "vehicles",
+                    "type": "ARRAY"
+                },
+                {
+                    "name": "starships",
+                    "type": "ARRAY"
+                }
+            ],
+            "sources": [ "star-wars.csv" ]
+        }
+    ]
+}
+
