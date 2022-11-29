@@ -56,7 +56,7 @@
                     "type": "STRING"
                 }
             ],
-            "sources": [ "star-wars.csv" ]
+            "sources": [ "starwars.csv" ]
         }
     ]
 }
