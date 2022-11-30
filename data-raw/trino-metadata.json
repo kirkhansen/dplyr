@@ -5,7 +5,7 @@
             "columns": [
                 {
                     "name": "name",
-                    "type": "STRING"
+                    "type": "VARCHAR"
                 },
                 {
                     "name": "height",
@@ -17,11 +17,11 @@
                 },
                 {
                     "name": "hair_color",
-                    "type": "STRING"
+                    "type": "VARCHAR"
                 },
                 {
                     "name": "eye_color",
-                    "type": "STRING"
+                    "type": "VARCHAR"
                 },
                 {
                     "name": "birth_year",
@@ -29,31 +29,31 @@
                 },
                 {
                     "name": "sex",
-                    "type": "STRING"
+                    "type": "VARCHAR"
                 },
                 {
                     "name": "gender",
-                    "type": "STRING"
+                    "type": "VARCHAR"
                 },
                 {
                     "name": "homeworld",
-                    "type": "STRING"
+                    "type": "VARCHAR"
                 },
                 {
                     "name": "species",
-                    "type": "STRING"
+                    "type": "VARCHAR"
                 },
                 {
                     "name": "FILMS",
-                    "type": "STRING"
+                    "type": "VARCHAR"
                 },
                 {
                     "name": "vehicles",
-                    "type": "STRING"
+                    "type": "VARCHAR"
                 },
                 {
                     "name": "starships",
-                    "type": "STRING"
+                    "type": "VARCHAR"
                 }
             ],
             "sources": [ "starwars.csv" ]
