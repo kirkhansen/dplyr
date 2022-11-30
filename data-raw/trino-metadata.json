@@ -9,15 +9,15 @@
                 },
                 {
                     "name": "height",
-                    "type": "INTEGER"
+                    "type": "BIGINT"
                 },
                 {
                     "name": "mass",
-                    "type": "INTEGER"
+                    "type": "BIGINT"
                 },
                 {
                     "name": "hair_color",
-                    "type": "VARCHAR"
+                    "type": "BIGINT"
                 },
                 {
                     "name": "eye_color",
