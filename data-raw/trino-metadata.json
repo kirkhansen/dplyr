@@ -38,25 +38,9 @@
                 {
                     "name": "homeworld",
                     "type": "VARCHAR"
-                },
-                {
-                    "name": "species",
-                    "type": "VARCHAR"
-                },
-                {
-                    "name": "FILMS",
-                    "type": "VARCHAR"
-                },
-                {
-                    "name": "vehicles",
-                    "type": "VARCHAR"
-                },
-                {
-                    "name": "starships",
-                    "type": "VARCHAR"
                 }
             ],
-            "sources": [ "starwars.csv" ]
+            "sources": [ "starwars_example_http_trino.csv" ]
         }
     ]
 }
