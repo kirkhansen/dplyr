@@ -20,6 +20,10 @@
                     "type": "VARCHAR"
                 },
                 {
+                    "name": "skin_color",
+                    "type": "VARCHAR"
+                },
+                {
                     "name": "eye_color",
                     "type": "VARCHAR"
                 },
