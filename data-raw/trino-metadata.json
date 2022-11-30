@@ -1,7 +1,7 @@
 {
     "tidyverse": [
         {
-            "name": "star-wars",
+            "name": "star_wars",
             "columns": [
                 {
                     "name": "name",
