@@ -9,11 +9,11 @@
                 },
                 {
                     "name": "height",
-                    "type": "BIGINT"
+                    "type": "DOUBLE"
                 },
                 {
                     "name": "mass",
-                    "type": "BIGINT"
+                    "type": "DOUBLE"
                 },
                 {
                     "name": "hair_color",
