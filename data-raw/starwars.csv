@@ -1,3 +1,4 @@
+name,height,mass,hair_color,skin_color,eye_color,birth_year,sex,gender,homeworld,species,films,vehicles,starships
 Luke Skywalker,172,77,blond,fair,blue,19,male,masculine,Tatooine,Human,"The Empire Strikes Back, Revenge of the Sith, Return of the Jedi, A New Hope, The Force Awakens","Snowspeeder, Imperial Speeder Bike","X-wing, Imperial shuttle"
 C-3PO,167,75,NA,gold,yellow,112,none,masculine,Tatooine,Droid,"The Empire Strikes Back, Attack of the Clones, The Phantom Menace, Revenge of the Sith, Return of the Jedi, A New Hope",,
 R2-D2,96,32,NA,"white, blue",red,33,none,masculine,Naboo,Droid,"The Empire Strikes Back, Attack of the Clones, The Phantom Menace, Revenge of the Sith, Return of the Jedi, A New Hope, The Force Awakens",,
