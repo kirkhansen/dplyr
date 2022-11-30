@@ -17,7 +17,7 @@
                 },
                 {
                     "name": "hair_color",
-                    "type": "BIGINT"
+                    "type": "VARCHAR"
                 },
                 {
                     "name": "eye_color",
